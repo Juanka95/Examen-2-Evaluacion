@@ -1,0 +1,180 @@
+
+
+
+@font-face{
+
+    font-family: Akaya Kanadaka;
+    src: url(fuentes/Akaya_Kanadaka/AkayaKanadaka-Regular.ttf);
+
+
+}
+
+body{
+
+    margin: auto;
+    background-color:wheat;
+
+}
+
+h1{
+
+    font-family:'Akaya Kanadaka', sans-serif;
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    color: white;
+    text-transform: uppercase;
+    text-shadow:orangered 5px 0px;
+}
+
+header{
+
+    background-color:orange;
+    
+
+
+}
+
+nav{
+
+    background-color:lightgreen;
+    border: orangered 2px solid;
+    margin: auto;
+
+}
+
+
+ul{
+
+    list-style-type: none;
+    text-align: center
+
+}
+li{
+
+  
+  background-color:orange;
+  margin-right: 10px;
+  border: orangered 2px solid;
+  display: inline;
+
+
+}
+
+a {
+
+    color: white;
+    padding: 4px;
+    text-decoration: none;
+    font-weight:900;
+}
+
+
+a:hover{
+
+    background-color:orangered;
+    color:white;
+
+
+}
+
+
+
+
+p.text1{
+
+    font-family: sans-serif;
+    background-color: yellowgreen;
+    color: yellow;
+    border: yellow 3px solid;
+    margin-top: 300px;
+    margin-bottom: 30px;
+    margin-left: 100px;
+    margin-right: 950px;
+    padding-bottom: 150px;
+    position: relative;
+   
+}
+
+p.text2{
+
+    font-family: sans-serif;
+    background-color: lightblue;
+    color: orange;
+    border: pink 3px solid;
+    margin-top: -250px;
+    margin-bottom: 30px;
+    margin-left: 950px;
+    margin-right: 100px;
+    padding-bottom: 150px;
+    position: relative;
+
+
+}
+
+p.text3{
+
+    font-family: sans-serif;
+    background-color: orange;
+    color: red;
+    border: red 3px solid;
+    margin-top: -436px;
+    margin-bottom: 30px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-bottom: 150px;
+    z-index: 2;
+    position: relative;
+
+
+}
+
+p:hover{
+
+    z-index: 3;
+
+
+}
+
+p.text4{
+
+    font-family: sans-serif;
+    background-color: orangered;
+    color: white;
+    margin-top: -200px;
+    margin-bottom: -100px;
+    margin-left: 850px;
+    margin-right: 400px;
+    padding-bottom: 150px;
+    position: relative;
+
+
+}
+
+object{
+
+    margin-left: 200px;
+    margin-bottom: -200px;
+
+}
+
+
+p.text5{
+
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 900;
+    color: orangered;
+
+
+}
+
+footer{
+
+
+    margin-top: 300px;
+    background-color:lime;
+    padding: 2px;
+    
+
+}
